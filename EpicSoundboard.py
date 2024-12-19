@@ -8,9 +8,9 @@ pygame.mixer.init()
 # Load the sound file - replace with your sound file path
 # Make sure to use a .wav or .mp3 file
 
-sound_bruh = pygame.mixer.Sound("C:/Users/Gabe/vsCode/SoundBoard/BRUH.mp3")
-sound_horn = pygame.mixer.Sound("C:/Users/Gabe/vsCode/SoundBoard/HORN.mp3")
-sound_sus = pygame.mixer.Sound("C:/Users/Gabe/vsCode/SoundBoard/SUS.mp3")
+sound_bruh = pygame.mixer.Sound("BRUH.mp3")
+sound_horn = pygame.mixer.Sound("HORN.mp3")
+sound_sus = pygame.mixer.Sound("SUS.mp3")
 
 # Define what happens when button is clicked
 # This is called a 'callback function'
