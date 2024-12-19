@@ -32,7 +32,7 @@ def sus_clicked():
 # Create the main application window
 window = tk.Tk()
 # Set the title that appears at the top of the window
-window.title("My First App")
+window.title("Epic Sound Board")
 
 # Create a button widget
 # Parameters are:
